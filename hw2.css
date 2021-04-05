@@ -1,0 +1,125 @@
+body{
+    background-image: url(http://www.yaharapridefarms.org/wp-content/uploads/2013/06/002-subtle-light-pattern-background-texture-vol5.jpg);
+    position: relative;
+}
+
+.main_menu{
+    height: 70px;
+}
+
+
+h1{
+    font-size: 25px;
+    color: white;
+}
+
+.brand_name{
+    border-left: 1px solid grey;
+    border-right: 1px solid grey;
+    background-color: #4aaaa5;
+    height: 70px;
+    padding: 5px;
+}
+
+.about_me{
+    height: 500px;
+}
+
+.about_me h1{
+    height: 80px;
+    color: #4aaaa5;
+    background: white;
+    font-size: 30px;
+    padding-top: 30px;
+    padding-left: 20px;
+}
+
+.about_me p{
+    text-align: justify;
+    line-height: 30px;
+    word-spacing: 3px;
+    font-size: larger;
+}
+
+.about_me, .contact_me{
+    background-color: #fff;
+}
+
+.second_part{
+    margin-top: 50px;
+    margin-bottom: 130px;
+    
+}
+
+.contact_me{
+    height: 230px;
+}
+
+.contact_me img{
+    margin-left: 10px;
+}
+
+.p1{
+    margin: 0 20px;
+}
+
+.p2{
+    margin-top: 30px;
+}
+
+.contact_me h1{
+        height: 30px;
+        color: #4aaaa5;
+        background: white;
+        font-size: 25px;
+}
+
+.imgs{
+    height: 70px;
+    width: 70px;
+}
+
+.main-img{
+    width: 300px;
+    height: 170px;
+    float: left;
+}
+
+.footer{
+    position: absolute;
+    bottom: 0;
+    height: 70px;
+    width: 100%;
+    background-color: #666;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border-top: 5px solid #4aaaa5;
+}
+
+.labels{
+    font-size: 16px;
+    color:rgb(173, 172, 172);
+}
+
+#message{
+    border: 1px solid rgb(173, 172, 172);
+    display: block;
+}
+
+.imgs_div{
+    display: flex; 
+    justify-content: center;
+}
+
+
+.portfolio_imgs img{
+    width: 200px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+.navigation-part{
+    height: 40px;
+    margin-top: 15px;
+    font-size: 17px;
+}
